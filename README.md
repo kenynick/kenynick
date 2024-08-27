@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @keno 
+- 👋 Hi, I’m @Enakeno 
 - 👀 I’m interested in tech product design
-- 🌱 I’m currently learning UI/UX design
-- 💞️ I’m looking to collaborate on creating products for cold room
+- 🌱 I’m currently a UI/UX designer
+- 💞️ I’m looking to collaborate on creating products for bussiness goals
 - 📫 How to reach me ...kenogwah@gmail.com
 
 <!---
